@@ -5,6 +5,7 @@ node-fetch
 [![npm version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
 [![coverage status][codecov-image]][codecov-url]
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=yuriploc/node-fetch)](https://dependabot.com)	
 
 A light-weight module that brings `window.fetch` to Node.js
 
