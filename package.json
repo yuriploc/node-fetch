@@ -55,7 +55,7 @@
     "rollup": "^1.19.4",
     "rollup-plugin-babel": "^2.6.1",
     "url-search-params": "^1.1.0",
-    "whatwg-url": "^7.0.0"
+    "whatwg-url": "^8.5.0"
   },
   "dependencies": { }
 }
